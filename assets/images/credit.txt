@@ -22,3 +22,11 @@ overheadpress
 highfive
 <span>Photo by <a href="https://unsplash.com/@brucemars?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">bruce mars</a> on <a href="https://unsplash.com/s/photos/workout?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
+overheadbell
+
+
+woman-lifts-weigts
+Photo by <a href="https://burst.shopify.com/@ndekhors?utm_campaign=photo_credit&amp;utm_content=Free+Woman+Lifts+Free+Weights+Image%3A+Stunning+Photography&amp;utm_medium=referral&amp;utm_source=credit">Nicole De Khors</a> from <a href="https://burst.shopify.com/exercise?utm_campaign=photo_credit&amp;utm_content=Free+Woman+Lifts+Free+Weights+Image%3A+Stunning+Photography&amp;utm_medium=referral&amp;utm_source=credit">Burst</a>
+
+mirrorimg
+Image by <a href="https://pixabay.com/users/scottwebb-30630/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=828726">Scott Webb</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=828726">Pixabay</a>

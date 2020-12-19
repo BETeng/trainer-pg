@@ -1,8 +1,88 @@
-.nav-item{
+/* .nav-item{
     font-size: 25px;
     height: 90px;
     justify-content: center;
     text-align: center;
     margin-top: 25px;
-    /* border-bottom: solid gold; */
+    
+}  */
+
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+  html, body, .about-bg-container {
+    height:100%;
 } 
+
+.hero-image{
+    background: url(../images/mirror-image.jpg);
+    background-size: cover;
+    height: 550px;
+    background-position-y: center;
+    background-repeat: no-repeat;
+   
+ 
+  object-position: 90px 100px; /* positioned top left of the content box */
+}
+.hero-image2{
+    background: url(../images/jogbleacher.jpg);
+    background-size: cover;
+    height: 550px;
+    position: relative;
+}
+.hero-image3{
+    background: url(../images/overheadpress.jpg);
+    background-position:center;
+    background-size: cover;
+    height: 550px;
+    background-repeat: no-repeat;
+    /* position: relative; */
+}
+
+.about-bg-container{
+    background-color: black;
+    background: url(../images/stretching.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 80%;
+    background-position: center ;
+}
+
+.intro-contianer{
+    height:100%;
+    background-color: bisque;
+    opacity: 80%;
+    font-size: 20px;
+}
+
+.bio-header{
+    justify-content: center;
+}
+.bio-photo{
+    height: 200px;
+    width: 200px;
+    border-radius: 50px;
+}
+.bio-img{
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    
+}
+
+.intro{
+    font-size: 20px;
+    opacity: 100%;
+}
+
+
+@media only screen and (max-width: 480px){
+    .hero-image{
+       background-position: -500px;
+    }
+    .hero-image3{
+        background-position: left 10%;
+    }
+}
