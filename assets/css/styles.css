@@ -1,7 +1,7 @@
 :root {
     --purp-text: #7946E0;
     --grey-text: #999999;
-    --dark-background:#4c4c4c;
+    --dark-background:#202020;
     --purp-background: #341E61;
 }
 
@@ -40,7 +40,7 @@ nav ul li {
 
 main {
     background: url('../images/mirror-image.jpg') no-repeat center center/cover;
-    height: 100vh;
+    height: 80vh;
     position: relative;
     color: #fff;
 }
@@ -78,3 +78,57 @@ main::before{
 main *{
     z-index: 10;
 }
+
+section.color-bg {
+    background-color: var(--purp-text);
+    color: #fff;
+    height: 270px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+section h4 {
+    font-size: 60px;
+}
+
+section p {
+    font-size: 26px;
+    margin-top: 15px;
+}
+
+section .btn {
+    color: #fff;
+    text-decoration: none;
+    border: 1.5px solid #fff;
+    padding: 20px 20px;
+    margin-top: 20px;
+}
+
+section .btn:hover {
+    background-color: #fff;
+    color: var(--purp-text);
+    text-decoration: none;
+    border: 1.5px solid #fff;
+    padding: 20px 20px;
+    margin-top: 20x;
+}
+
+section.white-bg{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 600px;
+}
+
+section h5 {
+    color: var(--dark-background);
+    font-size: 22px;
+}
+
+
+
